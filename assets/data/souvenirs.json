@@ -1,0 +1,388 @@
+[
+	{
+		"id": 1,
+		"title": "Hagi no Tsuki",
+		"detail_url": "souvenir_detail.html?id=1",
+		"region": "Tohoku",
+		"prefecture": "Miyagi",
+		"description": "A famous confectionery in Sendai City, Miyagi Prefecture, which has been on sale since 1979. Wrapped in fluffy castella using plenty of original custard cream, it has a mellow and gentle flavor.<br/> The product takes the shape of a moon floating in the sky of Miyagino where Hagi flowers are in full bloom.<br/>You can also freeze it in the freezer and eat it like ice cream.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://www.sanzen.co.jp/english/haginotsuki/index.html"
+		],
+		"button_text": "Learn more about Miyagi",
+		"button_link": "https://www.japan.travel/en/destinations/tohoku/miyagi/",
+		"main_img": "/assets/img/souvenir_map/hagi_no_tsuki/hagi_no_tsuki_01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/hagi_no_tsuki/hagi_no_tsuki_02.jpg"
+		]
+	},
+	{
+		"id": 2,
+		"title": "Kamakura Hangetsu",
+		"detail_url": "souvenir_detail.html?id=2",
+		"region": "Kanto",
+		"prefecture": "Kanagawa",
+		"description": "A famous confectionery in Kamakura City, Kanagawa Prefecture. It is an assortment of two flavors, with either matcha cream (Matcha Flavor) or Ogura cream (Ogura Flavor) sandwiched between crispy rice crackers which has a mild sweetness. The senbei dough is also  infused with the taste of each flavor during baking to make it even more delicious.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://www.kamakuragoro.co.jp/products/han.html"
+		],
+		"button_text": "Learn more about Kanagawa",
+		"button_link": "https://www.japan.travel/en/destinations/kanto/kanagawa/",
+		"main_img": "/assets/img/souvenir_map/kamakura_hangetsu/kamakura_hangetsu01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/kamakura_hangetsu/kamakura_hangetsu02.jpg",
+			"/assets/img/souvenir_map/kamakura_hangetsu/kamakura_hangetsu03.jpg"
+		]
+	},
+	{
+		"id": 3,
+		"title": "Tokyo Banana Kit Kat",
+		"detail_url": "souvenir_detail.html?id=3",
+		"region": "Kanto",
+		"prefecture": "Tokyo",
+		"description": "It is a collaboration product of \"Tokyo Banana\", a representative of Tokyo souvenirs, and \"KitKat\". The gentle banana flavor of \"Tokyo Banana\" is wrapped in \"KitKat\" chocolate. It's moist yet crispy. Accented with cute banana engraving.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://www.tokyobanana.jp/language/en/"
+		],
+		"button_text": "Learn more about Tokyo",
+		"button_link": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+		"main_img": "/assets/img/souvenir_map/tokyo_banana_kit_kat/01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/tokyo_banana_kit_kat/02.jpg",
+			"/assets/img/souvenir_map/tokyo_banana_kit_kat/03.jpg"
+		]
+	},
+	{
+		"id": 4,
+		"title": "Butter Galette",
+		"detail_url": "souvenir_detail.html?id=4",
+		"region": "Kanto",
+		"prefecture": "Tokyo",
+		"description": "It is a super hit product that won the overall grand prix at the \"2019 1st Souvenir Grand Prix\" sponsored by JR East. Using fermented butter and salt from France, we aim to strike a balance between buttery taste and saltiness to give a rich taste of butter while following the original recipe.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://sucreyshopping.jp/shopdetail/000000000278/"
+		],
+		"button_text": "Learn more about Tokyo",
+		"button_link": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+		"main_img": "/assets/img/souvenir_map/butter_galette/butter_galette01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 5,
+		"title": "KUJUKUSHIMA Senpei",
+		"detail_url": "souvenir_detail.html?id=5",
+		"region": "Kyushu",
+		"prefecture": "Nagasaki",
+		"description": "It is a famous confectionery in Sasebo City, Nagasaki. Received the Monde Selection Gold Award for 12 consecutive years since 2010. It has a unique crispy texture and the aroma of peanuts.<br/> The hexagon is shaped like the shell of a turtle which is one of the auspicious animals in Japan.<br/> Peanuts represent the shadow of Kujukushima islands floating in the sea.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://www.99grp.com/shopbrand/005/O"
+		],
+		"button_text": "Learn more about Nagasaki",
+		"button_link": "https://www.japan.travel/en/destinations/kyushu/nagasaki/",
+		"main_img": "/assets/img/souvenir_map/kujukushima_senpei/kujukushima_senpei01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/kujukushima_senpei/kujukushima_senpei02.jpg"
+		]
+	},
+	{
+		"id": 6,
+		"title": "TOKYOTAMAGO GomaTamago",
+		"detail_url": "souvenir_detail.html?id=6",
+		"region": "Kanto",
+		"prefecture": "Tokyo",
+		"description": "It is a well-known souvenir from Tokyo.<br/> A cute sesame-shaped candy made by wrapping black sesame paste in castella dough and coating it with white chocolae.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "ISETAN Scotts Supermarket 350 Orchard Road, Shaw House, Singapore 238868",
+		"block_link_url": "",
+		"ref_url": [
+			"https://tokyotamago.com/item-en/index.html#1"
+		],
+		"button_text": "Learn more about Tokyo",
+		"button_link": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+		"main_img": "/assets/img/souvenir_map/tokyotamago_gomatamago/tokyotamago_gomatamago01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/tokyotamago_gomatamago/tokyotamago_gomatamago02.jpg",
+			"/assets/img/souvenir_map/tokyotamago_gomatamago/tokyotamago_gomatamago03.jpg"
+		]
+	},
+	{
+		"id": 7,
+		"title": "Marugoto Mandarin Daifuku",
+		"detail_url": "souvenir_detail.html?id=7",
+		"region": "Shikoku",
+		"prefecture": "Ehime",
+		"description": "Marugoto Mandarin Daifuku is one of the popular souvenirs of Ehime Prefecture, loved by locals, Japanese from other prefectures, and tourist visiting the prefecture.<br/> The reason why it is such a hit is because of the delicious selected mandarin, the gentle sweetness of the white bean paste that does not interfere with the taste of the mandarin, and the good texture of the rice cake.<br/> Who can resist such an amazing collaboration of the mandarin, the white bean paste and the rice cake?",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "You can purchase at the link below!",
+		"block_link_url": "https://shop.jpassport.asia/products/marugoto-whole-mandarin-daifuku",
+		"ref_url": [],
+		"button_text": "Learn more about Ehime",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/ehime/",
+		"main_img": "/assets/img/souvenir_map/marugoto_mandarin/marugoto_mandarin_daifuku01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/marugoto_mandarin/marugoto_mandarin_daifuku02.jpg",
+			"/assets/img/souvenir_map/marugoto_mandarin/marugoto_mandarin_daifuku03.jpg"
+		]
+	},
+	{
+		"id": 8,
+		"title": "Uni Butter - Sea Urchin Butter from HIRONO FARM 4 YEARS UNI",
+		"detail_url": "souvenir_detail.html?id=8",
+		"region": "Tohoku",
+		"prefecture": "Iwate",
+		"description": "The perfect flavour of Hirono Farm uni and butter.This uni butter spread is also awarded the Minister of Agriculture, Forestry and Fisheries Award!<br/> The Kita Murasaki Sea urchin from HIRONO FARM 4YEARS UNI is carefully steamed immediately after being handled, and combined with Iwate butter made from high-quality milk.<br/> There are 70% sea urchin contents in each bottle!<br/> The special taste of \"Kita Murasaki sea urchin from Hirono Uni Farm that takes four years to grow\" is further enhanced with selected ingredients.This premium spread is the result of the farm's extensive knowledge of sea urchin.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "You can purchase at the link below!",
+		"block_link_url": "https://shop.jpassport.asia/products/uni-butter-hirono-farm-4-years-uni",
+		"ref_url": [],
+		"button_text": "Learn more about Iwate",
+		"button_link": "https://www.japan.travel/en/destinations/tohoku/iwate/",
+		"main_img": "/assets/img/souvenir_map/uni_butter/unibutter_1.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/uni_butter/unibutter_2.jpg",
+			"/assets/img/souvenir_map/uni_butter/unibutter_3.jpg"
+		]
+	},
+	{
+		"id": 9,
+		"title": "Kodai Ikko (720ml) - Premium Aged Rice Shochu",
+		"detail_url": "souvenir_detail.html?id=9",
+		"region": "Kyushu",
+		"prefecture": "Kumamoto",
+		"description": "Kuma Shochu series from Rokuchoshi brewery is well-known for the production of traditional shochu for over 500 years. In Japan, there are only 4 shochu brands that is approved by World Trade Organization (WTO) to use its own produced region name.<br/> The series includes Kodai Ikko, Daikoshu Toroshikaya, Rokuchoshi Red Label and Rokuchoshi Tokugin.<br/> The difference of each Kuma Shochu comes from 3 points:<br/>-Kind of Tank for aging-Multiple blended or Single blend<br/>-Year of aging<br/> The key lies in their traditional way of distillation & aging. It gives an outstanding aroma, taste & smooth texture on your tongue.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "You can purchase at the link below!",
+		"block_link_url": "https://shop.jpassport.asia/products/kodaiikko",
+		"ref_url": [],
+		"button_text": "Learn more about Kumamoto",
+		"button_link": "https://www.japan.travel/en/destinations/kyushu/kumamoto/",
+		"main_img": "/assets/img/souvenir_map/kodai_ikko/kodai_ikko_(720ml)_-_premium_aged_rice_shochu01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/kodai_ikko/kodai_ikko_(720ml)_-_premium_aged_rice_shochu02.jpg"
+		]
+	},
+	{
+		"id": 10,
+		"title": "Ariake Bijin Seaweed Nori",
+		"detail_url": "souvenir_detail.html?id=10",
+		"region": "Kyushu",
+		"prefecture": "Kumamoto",
+		"description": "Produced &  harvested from the Ariake Sea in Kumamoto Prefecture, this \"Ariake Bijin Seaweed Nori\" is nourished by the nutrient rich water from the mountains of Aso-Kuju. Its supreme quality is confirmed by its very usage in Michelin-starred restaurants in Japan!<br/>Choose from 3 main categories:<br/> 1) Bijin Nori Diamond (AAA+ quality) <br/>2) Bijin Nori 60 (AAA quality) 8 pieces x 60 sheets <br/>4 flavour- Yuzu Nori/ Grilled Nori/Wasabi Nori/Ichimi (Pepper) Nori <br/>3) Bijin Nori 40 (AAA quality) 8 pieces x 40 sheets <br/>4 flavour- Shio (Salt) Nori/ Wasabi Nori/Ume (Plum) Nori/Ichimi (Pepper) Nori",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD <br/>(100AM #03-16/17/18, 100 Tras Street) <br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/ariake-bijin-seaweed-nori-8-flavours"
+		],
+		"button_text": "Learn more about Kumamoto",
+		"button_link": "https://www.japan.travel/en/destinations/kyushu/kumamoto/",
+		"main_img": "/assets/img/souvenir_map/ariake_bijin/nori01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/ariake_bijin/nori02.jpg",
+			"/assets/img/souvenir_map/ariake_bijin/nori03.jpg"
+		]
+	},
+	{
+		"id": 11,
+		"title": "Daiyame Shochu",
+		"detail_url": "souvenir_detail.html?id=11",
+		"region": "Kyushu",
+		"prefecture": "Kagoshima",
+		"description": "\"Daiyame\" is a honkaku shochu (single-distilled shochu) made from sweet potato, originating from Hamada Syuzou Distillery Kagoshima. In 2019, it has won the top prize in the Shochu Distilled spirits category at the 2019 International Wine & Spirit Competition (IWSC) in London. In 2020, it has won the double gold award in the shochu category at International Spirits Challenge (ISC).<br/>This shochu has a fruity aroma (lychee), similar to that of wine and can be enjoyed chilled with carbonated water & lemon.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br/>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT <br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/daiyame-shochu-900-ml"
+		],
+		"button_text": "Learn more about Kagoshima",
+		"button_link": "https://www.japan.travel/en/destinations/kyushu/kagoshima/",
+		"main_img": "/assets/img/souvenir_map/daiyame_shochu/denzouin_daiyame_01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/daiyame_shochu/denzouin_daiyame_02.jpg",
+			"/assets/img/souvenir_map/daiyame_shochu/daiyame_highball_03.jpg"
+		]
+	},
+	{
+		"id": 12,
+		"title": "The Odawara Shonan Gold Wine",
+		"detail_url": "souvenir_detail.html?id=12",
+		"region": "Kanto",
+		"prefecture": "Kanagawa",
+		"description": "The Odawara Shonan Gold Wine uses 100% of Odawara Shonan Gold; a fruit widely lauded for its fresh, pleasant scent with a sweet and juicy taste! <br>Produced by the Odawara City Agriculture, Forestry and Livestock Products Special Product Development Promotion Council as part of the Odawara wine series, the final taste of wine was developed by opinions of producers, consumer associations & other local communities. What's more, only an approximate 3,300 bottles of wine are produced annually. Enjoy the refreshing scent & pleasant taste unique to the Shonan Gold! <br>Information about Sake <br>500 ml, 10% Alcohol <br>Sweet & refreshing",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br/>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT <br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/odawara-shonan-gold-wine-500-ml"
+		],
+		"button_text": "Learn more about Kanagawa",
+		"button_link": "https://www.japan.travel/en/destinations/kanto/kanagawa/",
+		"main_img": "/assets/img/souvenir_map/the_odawara/01.jpg",
+		"sub_img": [
+			"/assets/img/souvenir_map/the_odawara/02.jpg"
+		]
+	},
+	{
+		"id": 13,
+		"title": "Sen Tomato Juice \"Sweet\" <br/> Sen Tomato Juice \"Clear\"",
+		"detail_url": "souvenir_detail.html?id=13",
+		"region": "Tohoku",
+		"prefecture": "Iwate",
+		"description": "You can drink this premium tomato juice on its own, paired with bread, cheese & fish-based dishes. For those who like alcohol, you can mix it with sparkling wine & beer. Similarly, for the cooking enthusiasts, you can serve it in the form of a soup or sauce to complement your dishes.<br/>Tomato juice is rich in nutrients such as the Vitamin B, Vitamin C & Potassium and it is also an excellent source of antioxidants which can aid in reducing inflammation & risk of heart diseases and cancer.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br/>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/sen-tomato-juice-sweet-180-ml",
+			"https://www.hisemall.com/product-page/sen-tomato-juice-clear-180-ml"
+		],
+		"button_text": "Learn more about Iwate",
+		"button_link": "https://www.japan.travel/en/destinations/tohoku/iwate/",
+		"main_img": "/assets/img/souvenir_map/sen_tomato/tomato+1.png",
+		"sub_img": [
+			"/assets/img/souvenir_map/sen_tomato/tomato+2.png"
+		]
+	},
+	{
+		"id": 14,
+		"title": "Yuzu Kan Drink",
+		"detail_url": "souvenir_detail.html?id=14",
+		"region": "Shikoku",
+		"prefecture": "Kochi",
+		"description": "We highly recommend this \"Yuzu Kan\" beverage for those who are looking for a yuzu fruit juice which is less sweet than the \"Gokkun Umaji-Mura Yuzu Drink\". Feel refreshed with this fragrant \"Yuzu Kan\" drink which has won the International Taste Award in 2016.<br/> Made from Yuzu harvested from Umaji Mura (Umaji Village), in Kochi Prefecture, Japan.<br/>Comes in a can of 270ml.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/kochi/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 15,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=15",
+		"region": "Chugoku",
+		"prefecture": "Hiroshima",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/hiroshima/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 16,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=16",
+		"region": "Okinawa",
+		"prefecture": "Okinawa",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/okinawa/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 17,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=17",
+		"region": "Hokkaido",
+		"prefecture": "Hokkaido",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/hokaido/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 18,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=18",
+		"region": "Tokai",
+		"prefecture": "Mie",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/mei/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 19,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=19",
+		"region": "Kansai",
+		"prefecture": "Kyoto",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/tokyo/01.jpg",
+		"sub_img": []
+	},
+	{
+		"id": 20,
+		"title": "Lorem ipsum",
+		"detail_url": "souvenir_detail.html?id=20",
+		"region": "Kansai",
+		"prefecture": "Osaka",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam similique dolores non officia dignissimos aliquam, beatae necessitatibus veritatis autem provident pariatur unde, nemo esse perspiciatis illo aut soluta nostrum. Libero.",
+		"block_title": "Get this souvenir in Singapore!",
+		"block_description": "H.I.S. INTERNATIONAL TRAVEL PTE LTD<br>(100AM #03-16/17/18, 100 Tras Street)<br/>Tanjong Pagar MRT<br/>OR<br/>HIS eMall",
+		"block_link_url": "https://www.hisemall.com/",
+		"ref_url": [
+			"https://www.hisemall.com/product-page/yuzu-kan-drink-270ml"
+		],
+		"button_text": "Learn more about Kochi",
+		"button_link": "https://www.japan.travel/en/destinations/shikoku/kochi/",
+		"main_img": "/assets/img/souvenir_map/osaka/01.jpg",
+		"sub_img": []
+	}
+]
