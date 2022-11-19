@@ -6236,7 +6236,7 @@ input[type=date] {
 }
 
 #souvenir_map .souvenir__slider__content .souvenir_item_slider .slick-slide .list__item button {
-    font-size: 22px;
+    font-size: 19.5px;
     line-height: 1.7272727;
     font-weight: 700;
     color: #847976;
@@ -6251,13 +6251,13 @@ input[type=date] {
 
 @media screen and (max-width:1032px) {
     #souvenir_map .souvenir__slider__content .souvenir_item_slider .slick-slide .list__item button {
-        font-size: 2.0348837vw
+        font-size: 1.6vw
     }
 }
 
 @media screen and (max-width:768px) {
     #souvenir_map .souvenir__slider__content .souvenir_item_slider .slick-slide .list__item button {
-        font-size: 3.97135vw;
+        font-size: 3.3vw;
         padding: 1.0706666vw
     }
 }
@@ -6270,7 +6270,7 @@ input[type=date] {
 
 @media screen and (max-width:768px) and (min-width:755.40984px) {
     #souvenir_map .souvenir__slider__content .souvenir_item_slider .slick-slide .list__item button {
-        font-size: 30px
+        font-size: 25px
     }
 }
 
